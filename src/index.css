@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "exo-regular";
+  src: url("/Sky_Gears/public/fonts/Exo-Regular.ttf");
+}
+
+@font-face {
+  font-family: "exo-bold";
+  src: url("/Sky_Gears/public/fonts/Exo-Bold.ttf");
+}
+
+@font-face {
+  font-family: "inter-regular";
+  src: url("/Sky_Gears/public/fonts/Inter_18pt-Regular.ttf");
+}
